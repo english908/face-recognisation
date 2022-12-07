@@ -1,6 +1,7 @@
-h3 {
+h1 {
     font-family: 'Nerko One', cursive;
    text-decoration-color:blue;
+   font-size: 100%;
 }
 p {
     font-family: 'Caveat', cursive;
@@ -8,4 +9,9 @@ p {
 body {
     background-color:cyan;
     
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border:dashed;
 }
